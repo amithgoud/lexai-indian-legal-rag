@@ -6,3 +6,4 @@ streamlit
 python-dotenv
 duckduckgo-search
 numpy
+DDGS 
