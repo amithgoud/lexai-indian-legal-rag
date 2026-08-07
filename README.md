@@ -286,7 +286,7 @@ BGE-base scores ~8% higher on legal retrieval benchmarks than MiniLM-L6. The tra
 ## 👤 Author
 
 **[Amith ]**
-[LinkedIn](www.linkedin.com/in/amith-gouda) ·
+[LinkedIn]([www.linkedin.com/in/amith-gouda](https://www.linkedin.com/in/amith-gouda/)) ·
 [GitHub](https://github.com/amithgoud) ·
 [Email](mailto:amithgouda02@gmail.com)
 
