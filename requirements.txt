@@ -1,0 +1,8 @@
+google-genai
+sentence-transformers
+faiss-cpu
+pypdf
+streamlit
+python-dotenv
+duckduckgo-search
+numpy
