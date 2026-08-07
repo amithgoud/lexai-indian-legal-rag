@@ -11,7 +11,7 @@
 ![RAG](https://img.shields.io/badge/Architecture-RAG-green?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
-**⚖️[Live Demo →](https://amithgoud.github.io/mnist-digit-recognizer-from-scratch-numpy/demo/index.html](https://lexai-indian-legal-rag-42fincgixja3g98rcfnpfx.streamlit.app/)**
+**⚖️[Live Demo →](https://lexai-indian-legal-rag-42fincgixja3g98rcfnpfx.streamlit.app/)** - Ask any question related to Indian law
 
 <br>
 
